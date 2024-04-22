@@ -19,8 +19,8 @@ function Hero() {
 
 					<div class="mt-8 flex flex-wrap justify-center gap-4">
 						<a
-							class="block w-full rounded bg-primary px-12 py-3 text-sm font-medium text-white shadow hover:bg-blue-700 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
-							href="#"
+							class="block w-full rounded bg-blue-800 px-12 py-3 text-sm font-medium text-white shadow hover:bg-blue-700 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
+							href="/sign-in"
 						>
 							Get Started
 						</a>
